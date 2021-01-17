@@ -1,0 +1,30 @@
+$date
+  Mon Dec 30 11:59:47 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module a $end
+$var reg 4 ! nibble1[3:0] $end
+$var reg 4 " nibble2[3:0] $end
+$var reg 4 # nibble3[3:0] $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & c $end
+$var reg 3 ' d[2:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b1010 !
+b1111 "
+b1010 #
+1$
+0%
+1&
+b101 '
+#100000000

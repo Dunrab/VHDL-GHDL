@@ -1,0 +1,28 @@
+$date
+  Mon Dec 30 09:30:05 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module a3 $end
+$var reg 2 ! x[1:0] $end
+$comment xxxx is not handled $end
+$upscope $end
+$enddefinitions $end
+#0
+b10 !
+#10000000
+#20000000
+#30000000
+#40000000
+#50000000
+#60000000
+#70000000
+#80000000
+#90000000
+#100000000
